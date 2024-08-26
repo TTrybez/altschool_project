@@ -226,15 +226,12 @@ select {
 
 .download-btn {
         margin-top: 20px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
     }
     .download-btn button {
         padding: 10px 20px;
         border-radius: 8px;
         background-color: #048cda;
-        border-width: 1px;
+        border: none;
    
     }
     .download-btn button {
