@@ -214,3 +214,30 @@ select {
 }
 
 /* media */
+/* ******** MEDIA ******** */
+.media {
+    border-radius: 10px;
+    border-width: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+
+.download-btn {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .download-btn button {
+        padding: 10px 20px;
+        border-radius: 8px;
+        background-color: #048cda;
+        border-width: 1px;
+   
+    }
+    .download-btn button {
+        text-decoration: none;
+        color: #fff;
+    }
