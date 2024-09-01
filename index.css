@@ -76,7 +76,7 @@ footer a {
     text-align: center;
 }
 .alt-img {
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
 }
 .alt-img img {
@@ -222,6 +222,7 @@ select {
     flex-direction: row;
     justify-content: center;
     gap: 10px;
+   
 }
 
 .download-btn {
@@ -238,3 +239,4 @@ select {
         text-decoration: none;
         color: #fff;
     }
+
